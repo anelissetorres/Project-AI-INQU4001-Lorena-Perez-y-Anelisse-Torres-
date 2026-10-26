@@ -5,7 +5,8 @@ Prompt: yes, Hi, I’m a chemical engineering undergraduate student taking a hea
 
 Response: Here is the complete step-by-step numerical solution for **Exercise 5-34** using the **Finite Difference Method (FDM)**, structured according to the 7-step engineering problem-solving technique and audited against the ASME Boiler and Pressure Vessel Code (BPVC) and class rubric.
 
-I have also created and published a formatted Word document for your project report titled **`Exercise_5_34_Heat_Transfer_Solution.docx`** in your Studio panel.
+I have also created and published a formatted Word document for your project report titled **`Exercise_5_34_Heat_Transfer_Solution.docx>
+`** in your Studio panel.
 
 ---
 
@@ -240,4 +241,6 @@ Response: I have generated and published the formatted Word document report for 
 
 📊 **Would you like me to generate a chart image comparing the temperature profiles across all three cases that you can insert into your document or video presentation?**
 
-[Exercise_5_34_Heat_Transfer_Solution_v3.docx](https://github.com/user-attachments/files/33646945/Exercise_5_34_Heat_Transfer_Solution_v3.docx)
+Without auditing:
+With audit: 
+
