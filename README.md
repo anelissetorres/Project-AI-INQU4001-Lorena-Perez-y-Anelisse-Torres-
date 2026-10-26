@@ -241,6 +241,6 @@ Response: I have generated and published the formatted Word document report for 
 
 📊 **Would you like me to generate a chart image comparing the temperature profiles across all three cases that you can insert into your document or video presentation?**
 
-Without auditing:
-With audit: 
+Hand-Solved Exercise: [Proyecto #1  Heat Transfer.pdf](https://github.com/user-attachments/files/33980652/Proyecto.1.Heat.Transfer.pdf)
 
+With audit: [Exercise_5_34_Heat_Transfer_Solution_v3 Audited.pdf](https://github.com/user-attachments/files/33980630/Exercise_5_34_Heat_Transfer_Solution_v3.Audited.pdf)
